@@ -1,18 +1,21 @@
 Alfred Workflows
 ====
 
-一个快速查找Chrome标签的Alfred插件
-
 Chrome Bookmarks
 ====
 
-[\[Download Link\]][http://git.io/bVyd]
 
-![Demo](demo.png)
+快速查找并打开Chrome标签
+
+Quick search and open chrome bookmarks
+
+[Download Link](http://git.io/bVyd)
+
+![Demo](img/chrome bookmarks.gif)
 
 Author
 ======
 
-昱北(yubei) <yubei.pm@gmail.com>
+Gmail: 昱北(yubei) <yubei.pm@gmail.com>
 
-
+WeiBo: @昱北 <http://weibo.com/12270821>
