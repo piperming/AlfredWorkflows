@@ -19,3 +19,7 @@ Author
 Gmail: 昱北(yubei) <yubei.pm@gmail.com>
 
 WeiBo: @昱北 <http://weibo.com/12270821>
+
+## License
+
+Released under [MIT](http://rem.mit-license.org/)  LICENSE.
